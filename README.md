@@ -2,6 +2,8 @@
 
 For development purpose, I created this user under development process
 
-user : admin
-email : admin@example.com
-password : @polls12345678*
+<ul>
+  <li>user : admin</li> 
+  <li>email : admin@example.com</li>
+  <li>password : @polls12345678*</li>
+</ul>
