@@ -1,7 +1,5 @@
 # django-polls-tutorial
 
-For development purpose, I created this user under development process
+For learning by doing purpose
 
-user : admin
-email : admin@example.com
-password : @polls12345678*
+<a href="https://docs.djangoproject.com/pt-br/3.1/intro/tutorial01/" target="_blank">Click here to redirect for Beginner's Tutorial</a>
