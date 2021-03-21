@@ -2,4 +2,4 @@
 
 For learning by doing purpose
 
-<a href="https://docs.djangoproject.com/pt-br/3.1/intro/tutorial01/">Click here to redirect for Beginner's Tutorial</a>
+<a href="https://docs.djangoproject.com/pt-br/3.1/intro/tutorial01/" target="_blank">Click here to redirect for Beginner's Tutorial</a>
